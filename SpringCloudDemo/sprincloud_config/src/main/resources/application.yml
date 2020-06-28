@@ -16,8 +16,9 @@ spring:
           ####搜索目录
           search-paths:
             - gkconfig
-          username: xxxxx@xxxx.com
-          password: xxxxxxx
+#          公开仓库不用账号密码授权
+#          username: xxxxx@xxxx.com
+#          password: xxxxxxx
       ####读取分支
       label: master
 ####端口号
